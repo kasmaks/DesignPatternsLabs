@@ -1,7 +1,7 @@
 
 public class Main {
     public static void main(String[] args) {
-        int budget = 7;
+        int budget = 70;
 
         Pupil p = new Pupil("Vasia", "Pupkin", "Bestiariki", "8A");
 
